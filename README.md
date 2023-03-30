@@ -6,3 +6,5 @@ How to use:
 2. Upload the updater.bat to your website (it should be accessible from the victim's computer)  
 3. Edit the infector.bat's 3rd line with your infector.bat link  
 4. Send the infector to the victim
+
+(Not sponsored but you can host your viruses that you send to the consenting vitcim on [https://www.infinityfree.net/], you have 5GB free storage and a free subdomain)
